@@ -19,7 +19,7 @@ The app contains **four main pages**:
 ### 1. All Page
 The **All** page gives users an overall view of transportation methods. After selecting a census tract, the left panel displays the **Cycling Score, Walking Score, and Public Transit Score** allowing users to identify which transportation mode performs best in that tract.
 
-![Screenshot](images/all page mode)
+![Screenshot](images/all-page-mode)
 
 After selecting a census tract, the left panel displays:
 
@@ -39,7 +39,7 @@ These filters highlight census tracts where one transportation mode has the stro
 ---
 
 ### 2. Cycling Page
-![Screenshot](images/cycling%page.png)
+![Screenshot](images/cycling-page.png)
 
 The **Cycling** page focuses on cycling accessibility.
 
@@ -50,12 +50,16 @@ After selecting a census tract, users can view:
 - % of Cycling Commute
 - legend information for the cycling layer
 
+![Screenshot](images/cycling-top-and-worse.png)
+
 This page also includes filter buttons for:
 
 - Best CTs for Cycling (Top 10%)
 - Worst CTs for Cycling (Bottom 10%)
 
 These filters help users identify the highest- and lowest-performing census tracts for cycling accessibility.
+
+![Screenshot](images/switch-section.png)
 
 It also contains a **swipe comparison tool**:
 
@@ -67,6 +71,7 @@ Users can drag the vertical swipe bar to compare accessibility and actual cyclin
 ---
 
 ### 3. Walking Page
+![Screenshot](images/walking.png)
 The **Walking** page focuses on walking accessibility.
 
 After selecting a census tract, users can view:
@@ -74,6 +79,8 @@ After selecting a census tract, users can view:
 - Walking Score
 - % of Walk Commute
 - legend information for the walking layer
+
+![Screenshot](images/best-worst-walking.png)
 
 This page also includes filter buttons for:
 
@@ -90,6 +97,7 @@ Users can drag the swipe bar to compare accessibility and actual walking behavio
 ---
 
 ### 4. Public Transit Page
+![Screenshot](images/public-trasnit.png)
 The **Public Transit** page focuses on transit accessibility.
 
 After selecting a census tract, users can view:
@@ -98,6 +106,8 @@ After selecting a census tract, users can view:
 - % of CT with Subway Coverage and GO Train Coverage
 - % of Public Transit Commute
 - legend information for the transit layer
+
+![Screenshot](images/ttc-section.png)
 
 This page also includes filter buttons for:
 
@@ -120,8 +130,9 @@ Users can drag the swipe bar to compare accessibility and actual public transit 
 ---
 
 ## How to Use the App
-
+![Screenshot](images/on-step1.png)
 ### Step 1: Choose a page
+
 Use the navigation tabs at the top of the app to switch between:
 
 - All
@@ -132,13 +143,15 @@ Use the navigation tabs at the top of the app to switch between:
 The **All** page is best for a general overview, while the other three pages provide more detailed mode-specific information.
 
 ### Step 2: Find a census tract
-There are two ways to locate a census tract:
+There are *two ways* to locate a census tract:
+![Screenshot](images/on-step2.png)
 
 #### Option A: Search by address
 Type an address into the search bar. The map will zoom to that location so the corresponding census tract can be identified.
 
 #### Option B: Click directly on the map
 Click on any census tract directly on the map. The information panel on the left will update automatically.
+![Screenshot](images/option-B.png)
 
 ## How to Interpret the App
 The app is intended to help users answer questions such as:
