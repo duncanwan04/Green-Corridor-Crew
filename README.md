@@ -1,6 +1,11 @@
 # Green Corridor Crew: Empowering Smarter, Greener Mobility Choices in Toronto
 ![Screenshot](images/thumbnail.png)
 
+## TEAM
+* DUNCAN WAN
+* DONIQUE WHYLLY
+* QIYU WANG
+
 ## Mission Statement
 Urban transportation systems play a critical role in shaping how individuals access opportunities, services, and daily necessities, yet access to safe, efficient, and sustainable mobility remains unevenly distributed across cities. In Toronto, rapid urban growth, rising congestion, and increasing environmental pressures have intensified the need for transportation solutions that are not only efficient but also equitable and sustainable. Despite ongoing investments in public transit and active transportation infrastructure, significant disparities persist at the neighborhood level in terms of accessibility, safety, and infrastructure quality. These disparities can limit individuals’ ability to make informed, sustainable transportation choices and reinforce broader patterns of spatial inequality.
 
