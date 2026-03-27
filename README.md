@@ -17,7 +17,9 @@ The MoveGreen TO  app is an interactive mapping tool designed to help users expl
 The app contains **four main pages**:
 
 ### 1. All Page
-The **All** page gives users an overall view of transportation accessibility.
+The **All** page gives users an overall view of transportation methods. After selecting a census tract, the left panel displays the **Cycling Score, Walking Score, and Public Transit Score** allowing users to identify which transportation mode performs best in that tract.
+
+![Screenshot](images/all page mode)
 
 After selecting a census tract, the left panel displays:
 
@@ -37,6 +39,8 @@ These filters highlight census tracts where one transportation mode has the stro
 ---
 
 ### 2. Cycling Page
+![Screenshot](images/cycling%page.png)
+
 The **Cycling** page focuses on cycling accessibility.
 
 After selecting a census tract, users can view:
