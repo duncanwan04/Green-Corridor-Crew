@@ -1,4 +1,5 @@
 # Green Corridor Crew: Empowering Smarter, Greener Mobility Choices in Toronto
+![Screenshot](images/thumbnail.png)
 
 ## User Guide
 
