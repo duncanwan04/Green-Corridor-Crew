@@ -1,5 +1,7 @@
 # Green Corridor Crew: Empowering Smarter, Greener Mobility Choices in Toronto
 
+## User Guide
+
 Green Corridor Crew is an interactive mapping application that helps users explore sustainable transportation accessibility across census tracts in Toronto. The app compares **cycling**, **walking**, and **public transit** and helps users understand which transportation mode is most practical, safe, and accessible in different neighborhoods.
 
 Users can either **search for an address** or **click directly on the map** to select a census tract and view transportation scores.
